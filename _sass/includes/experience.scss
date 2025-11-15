@@ -2,7 +2,7 @@
 
 .experience {
     .title {
-        @include mixins.sub-header;
+        @include mixins.header;
     }
     .experience-item {
         .role {
